@@ -1,6 +1,6 @@
 # Canvas XSS vulnerability
 
-I found an XSS vulnerability in Instructure's Canvas LMS. It revolves around an outdated, insecure version of jQuery and a broken image handler.
+I found an XSS vulnerability in Instructure's Canvas LMS (used by >30 million students & teachers). It revolves around an outdated, insecure version of jQuery and a broken image handler.
 
 # Vulnerability
 
